@@ -1,4 +1,4 @@
-const Cone = require('../models/Cone')
+const Cone = require('../models/Cone.js')
 
 describe(`Testes da versão 1.0.0 - Sólido Geométricos`, () => {
     test(`Teste unitário da Área da Base`), () => {
